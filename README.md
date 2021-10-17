@@ -10,4 +10,4 @@ A curated collection of android emulator skins
 
 ## LICENSE
 
-[MIT](https://github.com/murshidazher/this-mac/blob/main/LICENSE) &copy; 2021 Murshid Azher & [Terms and Conditions](https://developer.samsung.com/terms) &copy; 2021 Samsung Developers.
+[MIT](https://github.com/murshidazher/this-mac/blob/main/LICENSE) & [Terms](https://developer.samsung.com/terms) &copy; 2021 Murshid Azher & Samsung Developers.
