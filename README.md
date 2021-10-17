@@ -8,11 +8,22 @@ A curated collection of android emulator skins
 
 - [avd skins](#avd-skins)
   - [Table of Contents](#table-of-contents)
+  - [Installing / Getting started](#installing--getting-started)
+    - [Setup](#setup)
   - [TODO](#todo)
   - [LICENSE](#license)
 
+## Installing / Getting started
+
+> ⚠️ TBA
+
+### Setup
+
+TBA
+
 ## TODO
 
+- Add installation instructions
 - Create a bash script based on this [gist](https://gist.github.com/badsyntax/ce848ab40b952d944c496575d40e5427) to automated the process of applying a skin to an AVD.
 
 ## LICENSE
