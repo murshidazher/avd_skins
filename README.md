@@ -25,6 +25,7 @@ TBA
 
 - Add installation instructions
 - Create a bash script based on this [gist](https://gist.github.com/badsyntax/ce848ab40b952d944c496575d40e5427) to automated the process of applying a skin to an AVD.
+- macOS `device-art-resources` path `/Applications/Android Studio.app/Contents/plugins/android/resources/device-art-resources`
 
 ## LICENSE
 
